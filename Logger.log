@@ -1,0 +1,14 @@
+INFO:root:Info message being logged from function: <function sum_up at 0x000000000AF2A8B0>
+INFO:root:The result from function call is: 7
+INFO:root:Info message being logged from function: <function substract at 0x0000000000A15940>
+INFO:root:The result from function call is: 7
+INFO:root:Info message being logged from function: <function sum_up at 0x0000000000ACF280>
+INFO:root:The result from function call is: 7
+INFO:root:Info message being logged from function: <function substract at 0x0000000000ACFE50>
+INFO:root:The result from function call is: 7
+INFO:root:Info message being logged from function: <function sum_up at 0x0000000000BEA1F0>
+INFO:root:The result from function call is: 7
+INFO:root:Info message being logged from function: <function substract at 0x00000000075DEDC0>
+INFO:root:The result from function call is: 7
+INFO:root:Info message being logged from function: <function sum_up at 0x000000000B5FDF70>
+INFO:root:The result from function call is: 7
